@@ -1,0 +1,45 @@
+.heading{
+    color: dodgerblue;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 50px;
+}
+small{
+    color: darkblue;
+}
+
+.vlog p, h2{
+    text-align: center;
+}
+
+.vlog1{
+    background-color: darksalmon;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 20px auto;
+    padding: 20px 15px;
+    width: 50%;
+    
+}
+
+.vlog2{
+    background-color: darksalmon;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 0 auto;
+    padding: 20px 15px;
+    width: 50%;
+}
+
+.vlog3{
+    background-color: darksalmon;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 20px auto;
+    padding: 0px 15px;
+    width: 50%;
+}
+
+.vlog-1-author{
+    color: darkblue;
+}
